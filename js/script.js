@@ -19,7 +19,7 @@ const texts = [
 // init plugin
 rgbKineticSlider = new rgbKineticSlider({
   // images and content sources
-  slideImages: images, // array of images >demo size : 1920 x 1080
+  slideImages: images, // array of images
   itemsTitles: texts, // array of titles / subtitles
 
   // displacement images sources
